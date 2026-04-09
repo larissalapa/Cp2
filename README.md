@@ -60,20 +60,20 @@ O sistema realiza validações de entrada e tratamento de erros, garantindo maio
 ### Pagamento com Cartão
 
 **Teste válido:**
-![Pagamento Cartão Válido](./images/cartao_valido.png)
+![Pagamento Cartão Válido](./imagens/cartao_valido.png)
 
 **Teste inválido (erro):**
-![Pagamento Cartão Inválido](./images/cartao_invalido.png)
+![Pagamento Cartão Inválido](./imagens/cartao_invalido.png)
 
 ---
 
 ### Pagamento com Boleto
 
 **Teste válido:**
-![Pagamento Boleto Válido](./images/boleto_valido.png)
+![Pagamento Boleto Válido](./imagens/boleto_valido.png)
 
 **Teste inválido (erro):**
-![Pagamento Boleto Inválido](./images/boleto_invalido.png)
+![Pagamento Boleto Inválido](./imagens/boleto_invalido.png)
 
 ---
 
