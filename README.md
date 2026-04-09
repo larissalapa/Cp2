@@ -47,10 +47,7 @@ O sistema realiza validações de entrada e tratamento de erros, garantindo maio
 * O código de barras deve ser válido
 * Em caso de erro:
 
-  ```
-  Erro: <mensagem>
-  Operação cancelada.
-  ```
+![Pagamento Cartão Inválido](CP2/imagens/cartao_invalido.png)
 
 ---
 
@@ -60,35 +57,25 @@ O sistema realiza validações de entrada e tratamento de erros, garantindo maio
 ### Pagamento com Cartão
 
 **Teste válido:**
-![Pagamento Cartão Válido](./imagens/cartao_valido.png)
+![Pagamento Cartão Válido](CP2/imagens/cartao_valido.png)
 
-**Teste inválido (erro):**
-![Pagamento Cartão Inválido](./imagens/cartao_invalido.png)
+**Teste inválido (erro):**<br>
+![Pagamento Cartão Inválido](CP2/imagens/cartao_invalido.png)
 
 ---
 
 ### Pagamento com Boleto
 
 **Teste válido:**
-![Pagamento Boleto Válido](./imagens/boleto_valido.png)
+![Pagamento Boleto Válido](CP2/imagens/boleto_valido.png)
 
-**Teste inválido (erro):**
-![Pagamento Boleto Inválido](./imagens/boleto_invalido.png)
+**Teste inválido (erro):**<br>
+![Pagamento Boleto Inválido](CP2/imagens/boleto_invalido.png)
 
 ---
 
 ## Exemplo de Execução
 
-```
-1 - Pagamento com Cartão
-2 - Pagamento com Boleto
-3 - Sair
+![Pagamento concluido](CP2/imagens/sucesso.png)
 
-Escolha uma opção: 1
-
-Informe o valor do pagamento: 100,50
-Informe o número do cartão: 1234567890123456
-
-Pagamento processado com sucesso!
-```
 
